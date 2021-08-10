@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Geomon-Joshy
+- 👀 I’m interested in physics,electronics ,Quantum Computing , DNA Computing
+- 🌱 I’m currently learning QISKIT
+- 💞️ I’m looking to collaborate on Quatum Computing
+- 📫 How to reach me geomonjoshy@gmail.com
