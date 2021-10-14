@@ -1,4 +1,4 @@
-Geomon Joshy
+<b>Geomon Joshy<b>
 <br>
 Bachelor of electronics<br>
 geomonjoshy@gmail.com<br>
