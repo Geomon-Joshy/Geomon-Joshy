@@ -1,12 +1,13 @@
 Geomon Joshy
-Bachelor of electronics
-geomonjoshy@gmail.com
-+91 7510147025
-Social
-Instagram:­ @call_me_purplemoon
-Twitter :­ @me_purplemoon
-Github :­ Geomon-Joshy
-                             Academia.edu :­ Geomon Joshy
+<br>
+Bachelor of electronics<br>
+geomonjoshy@gmail.com<br>
++91 7510147025<br>
+Social<br>
+Instagram:­ @call_me_purplemoon<br>
+Twitter :­ @me_purplemoon <br>
+Github :­ Geomon-Joshy <br>
+Academia.edu :­ Geomon Joshy <br>
 
 EDUCATION
 
