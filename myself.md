@@ -5,7 +5,7 @@ geomonjoshy@gmail.com<br>
 +91 7510147025<br>
 
 # Social
-Instagram: <a href src="https://www.instagram.com/call_me_purplemoon/">@call_me_purplemoon </a> <br>
+Instagram: <a href = "https://www.instagram.com/call_me_purplemoon/">@call_me_purplemoon </a> <br>
 Twitter : @me_purplemoon <br>
 Github : Geomon-Joshy <br>
 Academia.edu : Geomon Joshy <br>
