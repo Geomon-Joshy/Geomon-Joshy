@@ -6,9 +6,9 @@ geomonjoshy@gmail.com<br>
 
 # Social
 Instagram: <a href = "https://www.instagram.com/call_me_purplemoon/">@call_me_purplemoon </a> <br>
-Twitter : @me_purplemoon <br>
-Github : Geomon-Joshy <br>
-Academia.edu : Geomon Joshy <br>
+Twitter :<a href="https://twitter.com/MePurplemoon"> @me_purplemoon </a> <br>
+Github : <a href ="https://github.com/Geomon-Joshy">  Geomon-Joshy </a> <br>
+Academia.edu :<a href="https://independent.academia.edu/GeomonJoshy" > Geomon Joshy </a> <br>
 
 # EDUCATION
 
