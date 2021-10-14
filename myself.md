@@ -3,15 +3,17 @@
 Bachelor of electronics<br>
 geomonjoshy@gmail.com<br>
 +91 7510147025<br>
-# Social<br>
-Instagram:­ @call_me_purplemoon<br>
-Twitter :­ @me_purplemoon <br>
-Github :­ Geomon-Joshy <br>
-Academia.edu :­ Geomon Joshy <br>
+
+# Social
+Instagram: @call_me_purplemoon<br>
+Twitter : @me_purplemoon <br>
+Github : Geomon-Joshy <br>
+Academia.edu : Geomon Joshy <br>
+
 # EDUCATION
 
 ## Major in electronics
-			:­ diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers etc <br>
+			: diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers etc <br>
 ## Minor in:-
 *Electro magnetic theory <br>
 *Analogue circuits modulating, demodulating circuts.  <br>
