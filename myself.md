@@ -13,7 +13,8 @@ Academia.edu : Geomon Joshy <br>
 # EDUCATION
 
 ## Major in electronics
-			: diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers etc <br>
+			: diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers etc 
+			
 ## Minor in:-
 *Electro magnetic theory <br>
 *Analogue circuits modulating, demodulating circuts.  <br>
