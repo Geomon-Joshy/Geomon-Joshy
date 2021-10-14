@@ -5,7 +5,7 @@ geomonjoshy@gmail.com<br>
 +91 7510147025<br>
 
 # Social
-Instagram: @call_me_purplemoon<br>
+Instagram: <a href src="https://www.instagram.com/call_me_purplemoon/">@call_me_purplemoon </a> <br>
 Twitter : @me_purplemoon <br>
 Github : Geomon-Joshy <br>
 Academia.edu : Geomon Joshy <br>
@@ -13,7 +13,7 @@ Academia.edu : Geomon Joshy <br>
 # EDUCATION
 
 ## Major in electronics
-			: diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers etc 
+			: diodes,transistors,pcb,gates,Ic’s,digital circuits,micro-precessors and micro-controllers 
 			
 ## Minor in:-
 *Electro magnetic theory <br>
